@@ -12,4 +12,4 @@ Created a small convo/chatbot using Gemini API.
 
     GOOGLE_API_KEY = your API key
  
- 5- After that Run your code and have a chat with it.
+ 5- Run your code and have a chat with it in your terminal.
