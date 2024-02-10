@@ -6,10 +6,16 @@ Created a small convo/chatbot using Gemini API.
  
  2- Click on "Create API key" from there you can copy that key.
  
- 3- Open VS Code, and create a ".env" file. 
-
- 4- After creating the ".env" file past your API Key that you have created from GOOGLE AI STUDIO e.g.
+ 3- After downloading/cloning this repo you need to paste the API Key that you have created from GOOGLE AI STUDIO. Just replace your API key with the following e.g.
 
     GOOGLE_API_KEY = your API key
  
+ 4- Install these dependencies in your system before running the code.
+
+    pip install google-generativeai
+
+ and also install 
+ 
+    pip install python-dotenv
+
  5- Run your code and have a chat with it in your terminal.
