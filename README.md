@@ -8,9 +8,7 @@ Created a small convo/chatbot using Gemini API.
  
  3- Open VS Code, and create a ".env" file. 
 
- 4- After creating the ".env" file past your API Key that you have created from GOOGLE AI STUDIO. 
-    
-    e.g. 
+ 4- After creating the ".env" file past your API Key that you have created from GOOGLE AI STUDIO e.g.
 
     GOOGLE_API_KEY = your API key
  
